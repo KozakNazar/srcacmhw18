@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 /*************************************************************************
 * N.Kozak // Lviv'2020 // ACM // BigValue implementation and use example *
-*    file: acmhw16.cpp                                                   *
+*    file: acmhw18.cpp                                                   *
 **************************************************************************/
 #include "stdio.h"
 #include "stdlib.h"
